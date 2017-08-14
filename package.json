@@ -1,0 +1,23 @@
+{
+  "name": "wx_order",
+  "version": "1.0.0",
+  "description": "A WXApp of ordering food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaPig404/WX_Order.git"
+  },
+  "author": "Nuluf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphaPig404/WX_Order/issues"
+  },
+  "homepage": "https://github.com/AlphaPig404/WX_Order#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.4"
+  }
+}
